@@ -120,4 +120,3 @@ if __name__ == "__main__":
 
 ---
 
-**Part 3 အောင်မြင်စွာ ပြီးဆုံးသွားပြီ ဖြစ်ပါတယ်။** ဆက်လက်ပြီး Autonomous Vehicles နဲ့ Medical Imaging တွေရဲ့ အသက်သွေးကြောဖြစ်တဲ့ **Part 4 - Module 7: Chapter 7.1 (Introduction to Segmentation - Semantic vs Instance vs Panoptic)** ကို စတင် ရေးသားပေးစေလိုပါသလား ခင်ဗျာ။
